@@ -1,0 +1,11 @@
+{
+    "name": "saeedncc/hello-world-package",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "saeedncc\\HelloWorldPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
