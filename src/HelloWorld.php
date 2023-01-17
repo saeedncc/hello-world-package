@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorldPackage;
+namespace saeedncc\HelloWorldPackage;
 
 class HelloWorld
 {
