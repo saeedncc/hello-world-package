@@ -1,11 +1,11 @@
 <?php
 
-namespace HelloWorldPackage;
+namespace saeedncc\HelloWorldPackage;
 
 class HelloWorld
 {
     public static function sayHello()
     {
-        echo "Hello World";
+        echo "Hello World1";
     }
 }
