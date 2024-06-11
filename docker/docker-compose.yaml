@@ -8,7 +8,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: php-node-laravel-faradars
+    image: php-node-larave
     container_name: delivery-app
     restart: unless-stopped
     tty: true
